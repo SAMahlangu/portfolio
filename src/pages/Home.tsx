@@ -9,7 +9,7 @@ const Home = () => {
           alt="Profile"
           className="w-40 h-40 rounded-full mx-auto mb-6 object-cover"
         />
-        <h1 className="text-4xl font-bold text-gray-800 mb-4">Your Name</h1>
+        <h1 className="text-4xl font-bold text-gray-800 mb-4">Sipho Alex Mahlangu</h1>
         <p className="text-xl text-gray-600 mb-8">Senior Software Developer</p>
         <p className="text-gray-600 max-w-2xl mx-auto">
           Passionate software developer with X years of experience in building web applications.
